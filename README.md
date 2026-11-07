@@ -22,4 +22,4 @@ What I Learned
 
 Author
 
-Suri
+Simran Kumari
